@@ -1,0 +1,1 @@
+for /r %%v in (*.png) do "C:\Users\Tanya\Downloads\pngcrush_1_8_11_w64.exe" -ow -rem allb -reduce "%%v"
